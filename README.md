@@ -1,8 +1,4 @@
-Here's a clean and professional `README.md` for your real-time chat app project. You can tweak the style or tone to make it more casual or more technical depending on your preference.
 
----
-
-```markdown
 # 🗨️ Real-Time Chat App with Python & Sockets
 
 A simple yet powerful real-time chat application built using Python and socket programming. This project demonstrates the core concepts of real-time communication, including user name customization and group chatting capabilities.
